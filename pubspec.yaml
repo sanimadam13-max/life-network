@@ -1,0 +1,21 @@
+
+name: life_network
+description: A demo Pi-like mining app (LIFE NETWORK) - Full starter with AdMob placeholders and Arabic audio support.
+publish_to: 'none'
+version: 0.1.0+1
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.15
+  google_mobile_ads: ^2.3.0
+  just_audio: ^0.9.30
+  path_provider: ^2.0.11
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/audio/arabic_bg.mp3
