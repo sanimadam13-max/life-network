@@ -13,7 +13,6 @@ dependencies:
   intl: ^0.18.0
   google_mobile_ads: ^3.0.0
   share_plus: ^6.3.0
-  flutter_local_notifications: ^13.0.0
   percent_indicator: ^4.2.2
   provider: ^6.0.5
 
